@@ -2,3 +2,4 @@
 www.bing.com
 bing.com
 *.bing.com
+*.weather.microsoft.com
