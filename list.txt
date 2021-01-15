@@ -1,1 +1,4 @@
 *.facebook.com
+www.bing.com
+bing.com
+*.bing.com
