@@ -4,4 +4,4 @@ bing.com
 *.bing.com
 *.weather.microsoft.com
 tile-service.weather.microsoft.com
-github.githubassets.com
+substrate.office.com
