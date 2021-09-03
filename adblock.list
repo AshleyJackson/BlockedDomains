@@ -14,4 +14,5 @@ lenovo.com##div#tfs_invite_mvp_invite_container
 lucid.app###chart-gui > lucid-paywall-dialog:last-child > lucid-modal.paywall.no-forced-link-style.no-padding
 community.spiceworks.com###join-login_alt-modal
 google.com###taw
-
+techcommunity.microsoft.com##div.ui-widget-overlay:last-child
+techcommunity.microsoft.com##div.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.lia-content.lia-panel-dialog.lia-panel-dialog-modal-simple.lia-panel-dialog-modal-valuesurvey.lia-accessibility.lia-dialog-titleless.lia-in:nth-child(17)
