@@ -6,3 +6,4 @@ bing.com
 tile-service.weather.microsoft.com
 substrate.office.com
 *.msn.com
+*.reddit.com
