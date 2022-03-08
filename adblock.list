@@ -21,3 +21,4 @@ ubereats.com###wrapper > div.an.m6.m7.aq.m8.aw:nth-child(6)
 integromat.com##div.mk-modal:nth-child(15)
 integromat.com##div.mk-modal-backdrop:nth-child(16)
 integromat.com##div.mk-hello:first-child
+integromat.com##div.mk-toast:last-child
