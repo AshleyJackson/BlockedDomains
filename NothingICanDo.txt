@@ -1,0 +1,1 @@
+###main > div:last-child > div:first-child > div.container-visitor.ukraine-help-banner > div.up-card > div.up-alert.up-alert-notification
