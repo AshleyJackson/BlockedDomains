@@ -1,6 +1,3 @@
-www.bing.com
-bing.com
-*.bing.com
 *.weather.microsoft.com
 tile-service.weather.microsoft.com
 substrate.office.com
